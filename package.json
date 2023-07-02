@@ -1,0 +1,22 @@
+{
+  "name": "stackblitz-starters-qhj5wa",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+    "react-native-paper": "4.9.2",
+    "@expo/vector-icons": "^13.0.0",
+    "expo-constants": "~14.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+  
+}
